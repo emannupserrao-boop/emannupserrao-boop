@@ -10,7 +10,7 @@ I build **AI-agent systems and tools** — and I run my own projects with them e
 
 | Project | What it is |
 |---|---|
-| [**EMANNU OS**](https://github.com/emannupserrao-boop/emannu-os) | Self-hosted control panel that runs Claude Code, Codex, Hermes and OpenClaw as a governed AI team: job queue, isolated git worktrees, cross-model review, auto-merge with tests, routines engine, mobile PWA. 226 + 13 automated tests. |
+| [**EMANNU OS**](https://github.com/emannupserrao-boop/emannu-os) | Self-hosted control panel that runs Claude Code, Codex, Hermes and OpenClaw as a governed AI team: job queue, isolated git worktrees, cross-model review, auto-merge with tests, routines engine, mobile PWA, GitHub CI awareness. 234 + 13 automated tests. |
 | [**MIRAE — Dota 2 AI Coach**](https://github.com/emannupserrao-boop/mirae-dota-coach) | Local voice coach for Dota 2: reads the live Game State Integration feed, runs coaching rules and speaks recommendations; an evidence-based decision engine is in development and tested offline. Python, thousands of unit tests. |
 | [**WHAT LIES BTWN — Production OS**](https://github.com/emannupserrao-boop/what-lies-btwn-production-os) | Foundation of a fail-closed, gated pipeline for AI-generated visuals for my music project: manifests, schemas, validators and supervision harnesses with an audit trail (render execution still intentionally gated). |
 | [**Estação Raiz**](https://github.com/emannupserrao-boop/estacao-raiz) | 2D defense game prototype in Godot with fully original, code-synthesized audio and generated art. |
